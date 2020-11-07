@@ -10,13 +10,7 @@
   "commit": true,
   "commitConvention": "none",
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-round)](#contributors)",
-  "types": {
-    "filter": {
-      "symbol": "🚫",
-      "description": "People who help create filter list"
-    }
-  },
-  "skipCi": "true",
+  "skipCi": true,
   "contributors": [
     {
       "login": "pakonda",
@@ -26,7 +20,6 @@
       "contributions": [
         "code",
         "doc",
-        "filter",
         "blog"
       ]
     },
@@ -45,7 +38,26 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/16535467?v=4",
       "profile": "https://twitter.com/kowith337",
       "contributions": [
-        "filter"
+        "code"
+      ]
+    },
+    {
+      "login": "LagSeeN",
+      "name": "Danupol Intranurux",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19259262?v=4",
+      "profile": "http://anime-thai.net/",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "Alex-302",
+      "name": "Alex",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8361299?v=4",
+      "profile": "https://adguard.com/",
+      "contributions": [
+        "bug"
       ]
     }
   ],
